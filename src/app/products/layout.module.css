@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  padding: 8px;
+  border: 1px solid red;
+  margin: 4px;
+}
+
+.nav a {
+  padding: 0px 8px;
+  text-decoration: none;
+}
+
+.product {
+  padding: 16px;
+}
